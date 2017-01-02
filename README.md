@@ -5,7 +5,7 @@ M is the number of Gaussion kernal functions and lamda is the regularization coe
 
 The the kernal means are chosen equaly distributed in the data space, and spacial scale of kernal funtion is set to one. 
 
-### Below is generated plot from the python code [Gaussion_kernal_Least_square.py](https://github.com/JinScientist/Gaussion-Kernal-Least-Squares-Regression/blob/Gaussion_kernal_Least_square.py) with M=20 and lamda=1:
+### Below is generated plot from the python code [Gaussion_kernal_Least_square.py](https://github.com/JinScientist/Gaussion-Kernal-Least-Squares-Regression/blob/master/Gaussion_kernal_Least_square.py) with M=20 and lamda=1:
 
 ![plot](./regression_plot.png)
 There are overfitting when chosing large number of M for unregularized least squares with Gaussion basis function
