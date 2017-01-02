@@ -8,3 +8,4 @@ The the kernal means are chosen equaly distributed in the data space, and spacia
 ### Below is generated plot from the python code with M=20 and lamda=1:
 
 ![plot](./regression_plot.png)
+There are overfitting when chosing large number of M for unregularized least squares with Gaussion basis function
