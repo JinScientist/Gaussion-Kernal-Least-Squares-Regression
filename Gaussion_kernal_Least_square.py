@@ -2,7 +2,7 @@
 ===================================================================
 Support Vector Regression (SVR) and Least Squares with Guassion Kernal
 ===================================================================
-Coder:Jin Huang
+Coder:Jin H.
 
 """
 print(__doc__)
